@@ -1,5 +1,17 @@
-.breadcrumb > li + li:before {
+/* .breadcrumb > li + li:before {
   color: #ccc;
   content: "| ";
   padding: 0 5px;
+} */
+.breadcrumb {
+  background-color: #ffffff;
+}
+.breadcrumb li a {
+  color: #777777;
+}
+.navheight {
+  height: 12vh;
+}
+.bgskyblue {
+  background-color: #4aaaa5;
 }
