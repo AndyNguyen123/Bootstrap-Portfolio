@@ -15,3 +15,12 @@
 .bgskyblue {
   background-color: #4aaaa5;
 }
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 5vh;
+    background-color: #666666;
+    color: #ffffff;
+}
