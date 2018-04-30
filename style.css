@@ -3,6 +3,14 @@
   content: "| ";
   padding: 0 5px;
 } */
+.background {
+   position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
 .breadcrumb {
   background-color: #ffffff;
 }
@@ -23,4 +31,16 @@
     height: 5vh;
     background-color: #666666;
     color: #ffffff;
+}
+.portfolio-w{
+  width: 25vh;
+}
+.portfolio-h {
+    height: 18vh;
+}
+.portfoliotag {
+  flex-flow: row;
+  justify-content: center;
+  z-index: 1;
+  background-color: #4aaaa5;
 }
